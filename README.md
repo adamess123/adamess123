@@ -14,6 +14,7 @@
 <br/>  
 
 
+
 ## My Skill Set  
 
 <div align="center">  
@@ -36,6 +37,14 @@
 <br/>  
 
 
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=adamess123&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
 ## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/adamess123" target="_blank">
@@ -44,13 +53,6 @@
 </div>  
   
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=adamess123&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
 
 
 
