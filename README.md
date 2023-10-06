@@ -10,7 +10,6 @@
 
 - ⚡Fun fact: I have an N3 level of Japanese proficiency  
   
-
 <br/>  
 
 
