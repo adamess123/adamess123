@@ -2,13 +2,13 @@
 ## <div align="center">I'm Adam, an undergrad CS student and Web Dev, interested in software development and AR</div>  
   
 
-- 🤖Member of Knight Hacks UCF  
+- 🤖 Member of Knight Hacks UCF  
   
-
-- 🌱Currently focusing on Python  
+- 🌱 Currently focusing on Python  
   
-
-- ⚡Fun fact: I have an N3 level of Japanese proficiency  
+- 🔭 I’m currently working on [Wurtle](https://github.com/adamess123/Wurtle)
+  
+- ⚡ Fun fact: I have an N3 level of Japanese proficiency  
   
 <br/>  
 
@@ -36,13 +36,10 @@
 <br/>  
 
 
-<br/>  
-
-
+<!--
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=adamess123&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
+-->
 
 ## Connect with me  
 <div align="center">
@@ -50,12 +47,6 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-
-
-
-  
 
 <br/>  
 
