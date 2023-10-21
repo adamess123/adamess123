@@ -4,7 +4,7 @@
 
 - 🤖 Member of Knight Hacks UCF  
   
-- 🌱 Currently focusing on Python  
+- 🌱 Currently interested in learning the basics of AI/Machine Learning  
   
 - 🔭 I’m currently working on [Wurtle](https://github.com/adamess123/Wurtle)
   
