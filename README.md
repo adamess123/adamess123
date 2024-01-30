@@ -4,7 +4,7 @@
 
 - 🤖 Member of Knight Hacks UCF  
   
-- 🌱 Currently interested in learning the basics of AI/Machine Learning  
+- 🌱 Currently learning Rust
   
 - 🔭 I’m currently working on [adamess123.github.io](https://adamess123.github.io)
   
