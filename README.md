@@ -6,7 +6,7 @@
   
 - 🌱 Currently interested in learning the basics of AI/Machine Learning  
   
-- 🔭 I’m currently working on [Wurtle](https://github.com/adamess123/Wurtle)
+- 🔭 I’m currently working on [adamess123.github.io](https://adamess123.github.io)
   
 - ⚡ Fun fact: I have an N3 level of Japanese proficiency  
   
