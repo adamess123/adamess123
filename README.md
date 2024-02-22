@@ -4,9 +4,9 @@
 
 - 🤖 Member of Knight Hacks UCF  
   
-- 🌱 Currently learning Rust
+- 🌱 Currently experimenting with OpenCV
   
-- 🔭 I’m currently working on [adamess123.github.io](https://adamess123.github.io)
+- 🔭 I’m currently working on [PaperPal](https://github.com/Noway-code/paper-pal)
   
 - ⚡ Fun fact: I have an N3 level of Japanese proficiency  
   
