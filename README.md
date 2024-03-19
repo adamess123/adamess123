@@ -6,7 +6,7 @@
   
 - 🌱 Currently experimenting with OpenCV
   
-- 🔭 I’m currently working on [PaperPal](https://github.com/Noway-code/paper-pal)
+- 🔭 I’m currently working on [PaperPal](https://github.com/adamess123/paper-pal)
   
 - ⚡ Fun fact: I have an N3 level of Japanese proficiency  
   
