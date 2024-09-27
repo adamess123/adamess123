@@ -1,14 +1,12 @@
 
-## <div align="center">I'm Adam, an undergrad CS student and Web Dev, interested in software development and AR</div>  
+## <div align="center">I'm Adam, an undergrad CS student and Software Engineer, interested in software development and AR</div>  
   
 
 - 🤖 Member of Knight Hacks UCF  
   
 - 🌱 Currently experimenting with OpenCV
   
-- 🔭 I’m currently working on [PaperPal](https://github.com/adamess123/paper-pal)
-  
-- ⚡ Fun fact: I have an N3 level of Japanese proficiency  
+- ⚡ Fun fact: I have an N2 level of Japanese proficiency  
   
 <br/>  
 
